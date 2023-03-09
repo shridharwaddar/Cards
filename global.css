@@ -1,0 +1,31 @@
+.mainBlock{
+    border: 5px solid black;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: white;
+}
+img{
+    border: 2px solid bisque;
+    width: 270px;
+    height: 300px;
+}
+.parent1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.parent2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: ;
+}
+h1{
+    
+    color: chartreuse;
+    align-items: center;
+    align-content: center;
+    background-color: brown;
+}
